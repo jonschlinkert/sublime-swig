@@ -14,6 +14,16 @@ Next in Sublime Text, from the toolbar select the following: `View > Syntax > Op
 
 _More info coming soon..._
 
+## Examples
+
+### Basic highlighting
+
+![image](https://f.cloud.github.com/assets/383994/1143034/509540c0-1d12-11e3-8e06-f6ec6bcd651e.png)
+
+### With YAML front matter
+
+![image](https://f.cloud.github.com/assets/383994/1143037/8922ec9e-1d12-11e3-91f9-e0bcff20e0b8.png)
+
 
 ## Related projects
 
