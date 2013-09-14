@@ -27,7 +27,7 @@ _More info coming soon..._
 
 ## Related projects
 
-* [sublime-monokai-xtended](https://github.com/jonschlinkert/sublime-monokai-extended)
+* [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 * [sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended)
 * [assemble](http://github.com/assemble) (see the [live docs](http://assemble.io))
 * [assemble-swig](http://github.com/assemble/assemble-swig)
